@@ -1,4 +1,4 @@
-# MegaFIR Build of Materials:
+# MegaFIR Bill of Materials:
 
 | # | Description | Manufacturer-ID | Farnel Code | Other Links | €/piece |
 |----------|----------|----------|----------|---------|---------:|
@@ -15,7 +15,7 @@
 | 1 | 9V Battery Snap Connector | Keystone 2238 | 1650675 [link(.be)](https://be.farnell.com/keystone/2238/battery-strap-pp3/dp/1650675) | | €1.6900 |
 
 ## Cost
-The total build of materials for a MegaFIR will set you back €6 for the components. Additional costs are:
+The total bill of materials for a MegaFIR will set you back €6 for the components. Additional costs are:
 * The Melexis sensor
 * a 9V battery
 * a breadboard
