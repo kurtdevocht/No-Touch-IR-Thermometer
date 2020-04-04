@@ -13,7 +13,7 @@ We already anticipate a lack of enough available devices and are looking for **a
 There are 2 design concepts we have come up with. Both are based on the exact same principles but have a slightly different approach in building. Both are using an 8-bit Microcontroller that can be flashed through an Arduino set-up, and a [Melexis FIR](https://www.melexis.com/en/product/MLX90614/Digital-Plug-Play-Infrared-Thermometer-TO-Can) (Far Infra Red Temperature Sensor). Furthermore there's just a push button, a green/orange/red LED light and some electrical components. That's it!
 
 ### Project *Tiny-FIR*
-The Tiny-FIR is based on the [ATtiny85](https://www.microchip.com/wwwproducts/en/ATtiny85) and will be a fully assembled PCB board. The designs for the board and all necessary information to recreate van be fond in the Tiny_FIR folder. 
+The Tiny-FIR is based on the [ATtiny402](https://www.microchip.com/wwwproducts/en/ATtiny402) and will be a fully assembled PCB board. The designs for the board and all necessary information to recreate van be fond in the Tiny_FIR folder. 
 *Audience*: this model is targeted at makerspaces and manufacturers
 
 ![Rear Close](/Pictures/Enclosure_Design_Rear_close.jpg)
